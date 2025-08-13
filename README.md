@@ -6,7 +6,7 @@ O **Projeto de Previsão de Evasão de Clientes (Churn)** da **TelecomX** visa u
 
 Com a análise preditiva, o objetivo é fornecer à empresa ferramentas para **reduzir o churn**, aumentar a **retenção de clientes** e, por fim, melhorar a **satisfação do cliente**.
 
-[🔗 Link para o repositório no GitHub](#)
+[🔗 [Link para o repositório no GitHub](https://github.com/LuizAmeida/Challenge_TelecomX_Finalisando_o_Projeto.git)]
 
 ---
 
@@ -64,7 +64,7 @@ Aqui está a organização dos arquivos neste repositório:
 │ ├── TelecomX_Parte02.csv # Conjunto de dados original
 │
 ├── notebooks/ # Jupyter Notebooks com código e análise
-│ ├── Test_TelecomX.ipynb # Notebook com a análise completa
+│ ├── Challenge_TelecomX_Parte02.ipynb # Notebook com a análise completa
 │
 ├── scripts/ # Scripts para pré-processamento e treinamento de modelos
 │ ├── preprocess.py # Código de pré-processamento dos dados
@@ -123,10 +123,10 @@ python train_model.py
 - Otimizar os custos de marketing: Focando em campanhas específicas para clientes com maior risco de cancelar os serviços.
 
 ## 📄 Licença
-### Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+-  Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
 ## 📢 Contribuições
-## Este é um projeto aberto! Se você tem sugestões para melhorar o modelo, ou quer contribuir com ideias ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
+-  Este é um projeto aberto! Se você tem sugestões para melhorar o modelo, ou quer contribuir com ideias ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
 
 ## 🎉 Agradecimentos
-Agradecemos à Oracle e a Alura pelo aprendizado e confiança, que tornaram este projeto possível.
+- Agradecemos à Oracle e a Alura pelo aprendizado e confiança, que tornaram este projeto possível.
